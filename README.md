@@ -77,4 +77,21 @@ Includes links for carbon credit tracking and investments.
 
 3) Expand blockchain support to multiple chains.
 
-4) Enhance real-time streaming with additional IoT data sources.
+# Screenshots
+
+![image](https://github.com/user-attachments/assets/8a00f426-a217-4ded-97d6-32834f25ba26)
+
+![image](https://github.com/user-attachments/assets/d7134002-8eff-48c1-9348-a2c861d1fed3)
+
+![image](https://github.com/user-attachments/assets/09ad1b95-fe2f-4cce-804d-c0c44936ffc7)
+
+![image](https://github.com/user-attachments/assets/fe65f7cd-535b-4033-b6f9-6f5dc43de3f0)
+
+![image](https://github.com/user-attachments/assets/09b6abe6-02bf-4829-a61d-7f57f7144256)
+
+
+
+
+
+
+5) Enhance real-time streaming with additional IoT data sources.
